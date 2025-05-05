@@ -1,0 +1,195 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ranking": 1,
+        "brand_name": "CATL",
+        "company_name": "Contemporary Amperex Technology Co., Limited (CATL)",
+        "province": "Fujian",
+        "annual_capacity_GWh": ">400",
+        "market_share": 0.4,
+        "key_customer": "Tesla, NIO, Li Auto, BMW, VW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.2965,
+          26.0745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ranking": 2,
+        "brand_name": "BYD Battery",
+        "company_name": "BYD Company Limited",
+        "province": "Guangdong",
+        "annual_capacity_GWh": ">300",
+        "market_share": 0.25,
+        "key_customer": "BYD vehicles, Toyota, Hyundai, Kia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2644,
+          23.1291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ranking": 3,
+        "brand_name": "CITIC Group",
+        "company_name": "CITIC New Materials Development Co., Ltd.",
+        "province": "Jiangsu",
+        "annual_capacity_GWh": "≈150",
+        "market_share": 0.08,
+        "key_customer": "XPeng, GAC, Geely, Honda"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7969,
+          32.0603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ranking": 4,
+        "brand_name": "Gotion High-tech",
+        "company_name": "Gotion High-tech Co., Ltd.",
+        "province": "Anhui",
+        "annual_capacity_GWh": "≈120",
+        "market_share": 0.06,
+        "key_customer": "VW, NIO, Chery, Leapmotor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.2808,
+          31.8667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ranking": 5,
+        "brand_name": "EVE Energy",
+        "company_name": "EVE Energy Co., Ltd.",
+        "province": "Guangdong",
+        "annual_capacity_GWh": "≈100",
+        "market_share": 0.05,
+        "key_customer": "BMW, Daimler, Xiaomi Auto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2644,
+          23.1291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ranking": 6,
+        "brand_name": "Sunwoda",
+        "company_name": "Sunwoda Electronic Co., Ltd.",
+        "province": "Guangdong",
+        "annual_capacity_GWh": "≈80",
+        "market_share": 0.04,
+        "key_customer": "Geely, Renault, Nissan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          113.2644,
+          23.1291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ranking": 7,
+        "brand_name": "Svolt Energy",
+        "company_name": "Taikang Energy Technology Co., Ltd.",
+        "province": "Jiangsu",
+        "annual_capacity_GWh": "≈60",
+        "market_share": 0.03,
+        "key_customer": "Great Wall, Ora, Seres"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.7969,
+          32.0603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ranking": 8,
+        "brand_name": "Farasis Energy",
+        "company_name": "Yazhen Fine Technology Co., Ltd.",
+        "province": "Jiangxi",
+        "annual_capacity_GWh": "≈40",
+        "market_share": 0.02,
+        "key_customer": "Mercedes-Benz, Geely, BAIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.8582,
+          28.682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ranking": 9,
+        "brand_name": "Envision AESC",
+        "company_name": "Envision Energy Limited",
+        "province": "Shanghai",
+        "annual_capacity_GWh": "≈35",
+        "market_share": 0.02,
+        "key_customer": "Nissan, Renault, Lexus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.4737,
+          31.2304
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ranking": 10,
+        "brand_name": "Hithium",
+        "company_name": "Xiamen Hithium Energy Storage Technology Co., Ltd.",
+        "province": "Fujian",
+        "annual_capacity_GWh": "≈25",
+        "market_share": 0.01,
+        "key_customer": "Commercial EVs, Energy Storage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.2965,
+          26.0745
+        ]
+      }
+    }
+  ]
+}
