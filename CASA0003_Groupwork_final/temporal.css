@@ -1,0 +1,10 @@
+/* 
+.content-section .page-title {  分页面标题
+  position: absolute;
+  top: 8rem;    导航栏56px/3.5 rem+ 间距 4.5rem
+  right: 96px; left: auto;  
+  font-size: 4rem;
+  font-weight: bold;
+  color: #fff;  /* 原来写的是 var(#fff)，也可以直接改成 #fff */
+}
+*/
